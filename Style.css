@@ -16,7 +16,7 @@ min-height: 100vh;
 display: flex;
 justify-content: center;
 align-items: center;
-background: url(assets/back.jpg);
+background: url(back.jpg);
 background-size: cover;
 background-position: center;
 overflow: hidden;
